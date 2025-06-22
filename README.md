@@ -38,3 +38,12 @@ Void Script is a sleek, dark, minimalist theme for Visual Studio Code, designed 
 "workbench.colorTheme": "Void Script",
 "window.titleBarStyle": "custom"
 ```
+## Feedback & Support
+
+Found a bug? Have a suggestion to improve Void Script?  
+I'd love to hear from you!
+
+You can open an issue or feature request here:  
+👉 [GitHub Issues](https://github.com/adamsmithdev/void-script-theme/issues)
+
+Thank you for using Void Script! 🚀
