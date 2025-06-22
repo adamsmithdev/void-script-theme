@@ -10,7 +10,7 @@ Void Script is a sleek, dark, minimalist theme for Visual Studio Code, designed 
 
 ## Preview
 
-![Void Script Theme Preview](screenshots/preview.png)
+![Void Script Theme Preview](images/preview.png)
 
 ---
 
