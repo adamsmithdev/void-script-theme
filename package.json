@@ -1,6 +1,7 @@
 {
   "name": "void-script",
   "publisher": "adamsmithdev",
+  "license": "MIT",
   "displayName": "Void Script",
   "description": "Void Script is a sleek, dark theme designed for late-night coding. Featuring deep blacks, subtle contrast, and vibrant syntax highlights — perfect for staying focused in the void.",
   "version": "0.0.1",
