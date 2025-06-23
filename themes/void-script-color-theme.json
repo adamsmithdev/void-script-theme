@@ -1852,7 +1852,7 @@
     // Activity Bar
     "scrollbar.shadow": "#191919",
     "activityBar.foreground": "#7f7fff",
-    "activityBar.background": "#191919",
+    "activityBar.background": "#212121",
     "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#7f7fff",
@@ -1860,7 +1860,7 @@
     // Side Bar
     "sideBar.background": "#191919",
     "sideBar.foreground": "#cccccc",
-    "sideBarSectionHeader.background": "#00000000",
+    "sideBarSectionHeader.background": "#212121",
     "sideBarSectionHeader.foreground": "#cccccc",
     "sideBarSectionHeader.border": "#cccccc00",
     "sideBarTitle.foreground": "#bbbbbb",
@@ -1896,7 +1896,7 @@
     "statusBarItem.activeBackground": "#FFFFFF25",
 
     // Title Bar
-    "titleBar.activeBackground": "#191919",
+    "titleBar.activeBackground": "#212121",
     "titleBar.activeForeground": "#cccccc",
     "titleBar.inactiveBackground": "#212121",
     "titleBar.inactiveForeground": "#cccccc99",
@@ -1955,8 +1955,8 @@
     "editor.lineHighlightBorder": "#282828",
     "editorLineNumber.activeForeground": "#7f7fff",
     "editorLink.activeForeground": "#4e94ce",
-    "editorIndentGuide.background": "#404040",
-    "editorIndentGuide.activeBackground": "#707070",
+    "editorIndentGuide.background1": "#404040",
+    "editorIndentGuide.activeBackground1": "#707070",
     "editorRuler.foreground": "#5a5a5a",
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#888888",
@@ -2027,14 +2027,11 @@
     // Tab
     "editorGroupHeader.tabsBackground": "#191919",
     "tab.activeForeground": "#ffffff",
-    "tab.border": "#00000000",
     "tab.activeBackground": "#212121",
     "tab.activeBorder": "#7f7fff",
-    "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#191919",
     "tab.inactiveForeground": "#ffffff80",
-    "tab.hoverBackground": "#212121",
-    "tab.unfocusedHoverBorder": "#21212177",
+    "tab.hoverBackground": "#ffffff20",
 
     // Scrollbar
     "scrollbarSlider.background": "#ffffff10",
@@ -2071,7 +2068,7 @@
     "gitDecoration.submoduleResourceForeground": "#8db9e2",
     "gitDecoration.untrackedResourceForeground": "#73c991",
 
-
+    // Market Navigation Colors
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#f48771",
     "editorMarkerNavigationWarning.background": "#cca700",
