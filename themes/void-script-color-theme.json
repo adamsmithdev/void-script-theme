@@ -968,7 +968,7 @@
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#6ae0ee"
+        "foreground": "#c586c0"
       }
     },
     {
@@ -1960,7 +1960,7 @@
     "editorRuler.foreground": "#5a5a5a",
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#888888",
-    "editor.foldBackground": "#7f7fff55",
+    "editor.foldBackground": "#7f7fff33",
     "editorOverviewRuler.background": "#25252500",
     "editorOverviewRuler.border": "#7f7f7f4d",
     "editorError.foreground": "#f48771",
