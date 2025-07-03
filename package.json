@@ -5,7 +5,7 @@
   "displayName": "Void Script",
   "description": "Void Script is a sleek, dark theme designed for late-night coding. Featuring deep blacks, subtle contrast, and vibrant syntax highlights — perfect for staying focused in the void.",
   "icon": "images/logo.png",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.101.0"
   },
